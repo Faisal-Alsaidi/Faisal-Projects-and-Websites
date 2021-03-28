@@ -1,0 +1,1 @@
+Hello! This is my general Github page where I store most of my projects and websites, both for school and some personal projects here and there. Every once in a while, I may use this account as a way of setting up a static website (usually as an alternative to just making a Powerpoint presentation), so if my account name changes, that's why.
